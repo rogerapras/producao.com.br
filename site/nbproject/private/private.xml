@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/pedido/lista.html</file>
+            <file>file:/var/www/html/producao.com.br/public/models/pedidoModel.php</file>
+            <file>file:/var/www/html/producao.com.br/public/files/js/os/os.js</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/dashboard/dashboard.tpl</file>
+            <file>file:/var/www/html/producao.com.br/public/controllers/dashboardController.php</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/manutprevincluir/lista.html</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/pedidoaberto.html</file>
+            <file>file:/var/www/html/producao.com.br/public/controllers/manutprevincluirController.php</file>
+            <file>file:/var/www/html/producao.com.br/public/system/model.php</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/form_novo.tpl</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/pedido/financeiro.tpl</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/oscolabanalitico.html</file>
+            <file>file:/var/www/html/producao.com.br/public/models/osModel.php</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/osanalitico.html</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/relatorio.html</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/manutprevincluir/form_novo.tpl</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/listaocorrencias.html</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/os/prelista.html</file>
+            <file>file:/var/www/html/producao.com.br/public/controllers/osController.php</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/pedido/listafinanceiro.html</file>
+            <file>file:/var/www/html/producao.com.br/public/views/templates/pedido/pedidoaberto.html</file>
+        </group>
+    </open-files>
+</project-private>
